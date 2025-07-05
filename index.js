@@ -16,9 +16,13 @@ import { AppRegistry } from 'react-native';
 // import AppPro from './components/RefreshControl';
 // import AppPro from './components/StatusBar';
 // import AppPro from './components/Touchable';
-import AppPro from './components/VirtualizedList';
+// import AppPro from './components/VirtualizedList';
 
 // import AppPro from './DrawerLayout';
+
+// import AppPro from './props/ImageStyle';
+
+import AppPro from './InstagramStroyUI';
 
 // import AppPro from './components/Dimensions';
 // import AppPro from './components/LayoutAnimation';

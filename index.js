@@ -22,7 +22,7 @@ import { AppRegistry } from 'react-native';
 
 // import AppPro from './props/ImageStyle';
 
-import AppPro from './InstagramStroyUI';
+import AppPro from './dashboard/InstagramStroyUI';
 
 // import AppPro from './components/Dimensions';
 // import AppPro from './components/LayoutAnimation';
